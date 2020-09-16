@@ -1,0 +1,13 @@
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\RoleplayV10\bin\Debug\netcoreapp3.1\RolePlayV10.exe
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\RoleplayV10\bin\Debug\netcoreapp3.1\RolePlayV10.deps.json
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\RoleplayV10\bin\Debug\netcoreapp3.1\RolePlayV10.runtimeconfig.json
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\RoleplayV10\bin\Debug\netcoreapp3.1\RolePlayV10.runtimeconfig.dev.json
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\RoleplayV10\bin\Debug\netcoreapp3.1\RolePlayV10.dll
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\RoleplayV10\bin\Debug\netcoreapp3.1\RolePlayV10.pdb
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\RoleplayV10\obj\Debug\netcoreapp3.1\RolePlayV10.csprojAssemblyReference.cache
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\RoleplayV10\obj\Debug\netcoreapp3.1\RolePlayV10.AssemblyInfoInputs.cache
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\RoleplayV10\obj\Debug\netcoreapp3.1\RolePlayV10.AssemblyInfo.cs
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\RoleplayV10\obj\Debug\netcoreapp3.1\RolePlayV10.csproj.CoreCompileInputs.cache
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\RoleplayV10\obj\Debug\netcoreapp3.1\RolePlayV10.dll
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\RoleplayV10\obj\Debug\netcoreapp3.1\RolePlayV10.pdb
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\RoleplayV10\obj\Debug\netcoreapp3.1\RolePlayV10.genruntimeconfig.cache

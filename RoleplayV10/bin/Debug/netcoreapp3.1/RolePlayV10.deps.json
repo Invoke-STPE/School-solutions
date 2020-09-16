@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RolePlayV10/1.0.0": {
+        "runtime": {
+          "RolePlayV10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RolePlayV10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

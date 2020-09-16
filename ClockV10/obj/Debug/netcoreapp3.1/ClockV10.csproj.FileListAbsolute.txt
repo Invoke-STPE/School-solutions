@@ -1,0 +1,13 @@
+C:\Users\steven\onedrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\ClockV10\bin\Debug\netcoreapp3.1\ClockV10.exe
+C:\Users\steven\onedrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\ClockV10\bin\Debug\netcoreapp3.1\ClockV10.deps.json
+C:\Users\steven\onedrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\ClockV10\bin\Debug\netcoreapp3.1\ClockV10.runtimeconfig.json
+C:\Users\steven\onedrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\ClockV10\bin\Debug\netcoreapp3.1\ClockV10.runtimeconfig.dev.json
+C:\Users\steven\onedrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\ClockV10\bin\Debug\netcoreapp3.1\ClockV10.dll
+C:\Users\steven\onedrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\ClockV10\bin\Debug\netcoreapp3.1\ClockV10.pdb
+C:\Users\steven\onedrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\ClockV10\obj\Debug\netcoreapp3.1\ClockV10.csprojAssemblyReference.cache
+C:\Users\steven\onedrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\ClockV10\obj\Debug\netcoreapp3.1\ClockV10.AssemblyInfoInputs.cache
+C:\Users\steven\onedrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\ClockV10\obj\Debug\netcoreapp3.1\ClockV10.AssemblyInfo.cs
+C:\Users\steven\onedrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\ClockV10\obj\Debug\netcoreapp3.1\ClockV10.csproj.CoreCompileInputs.cache
+C:\Users\steven\onedrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\ClockV10\obj\Debug\netcoreapp3.1\ClockV10.dll
+C:\Users\steven\onedrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\ClockV10\obj\Debug\netcoreapp3.1\ClockV10.pdb
+C:\Users\steven\onedrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\ClockV10\obj\Debug\netcoreapp3.1\ClockV10.genruntimeconfig.cache

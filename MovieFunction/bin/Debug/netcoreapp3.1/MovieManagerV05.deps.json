@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MovieManagerV05/1.0.0": {
+        "runtime": {
+          "MovieManagerV05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MovieManagerV05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

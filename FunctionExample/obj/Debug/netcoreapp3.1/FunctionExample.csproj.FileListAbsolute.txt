@@ -1,0 +1,13 @@
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\FunctionExample\bin\Debug\netcoreapp3.1\FunctionExample.exe
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\FunctionExample\bin\Debug\netcoreapp3.1\FunctionExample.deps.json
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\FunctionExample\bin\Debug\netcoreapp3.1\FunctionExample.runtimeconfig.json
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\FunctionExample\bin\Debug\netcoreapp3.1\FunctionExample.runtimeconfig.dev.json
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\FunctionExample\bin\Debug\netcoreapp3.1\FunctionExample.dll
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\FunctionExample\bin\Debug\netcoreapp3.1\FunctionExample.pdb
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.csprojAssemblyReference.cache
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.AssemblyInfoInputs.cache
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.AssemblyInfo.cs
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.csproj.CoreCompileInputs.cache
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.dll
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.pdb
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\FunctionExample\obj\Debug\netcoreapp3.1\FunctionExample.genruntimeconfig.cache
