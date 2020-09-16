@@ -1,0 +1,13 @@
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\BankV05\bin\Debug\netcoreapp3.1\BankV05.exe
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\BankV05\bin\Debug\netcoreapp3.1\BankV05.deps.json
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\BankV05\bin\Debug\netcoreapp3.1\BankV05.runtimeconfig.json
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\BankV05\bin\Debug\netcoreapp3.1\BankV05.runtimeconfig.dev.json
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\BankV05\bin\Debug\netcoreapp3.1\BankV05.dll
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\BankV05\bin\Debug\netcoreapp3.1\BankV05.pdb
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\BankV05\obj\Debug\netcoreapp3.1\BankV05.csprojAssemblyReference.cache
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\BankV05\obj\Debug\netcoreapp3.1\BankV05.AssemblyInfoInputs.cache
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\BankV05\obj\Debug\netcoreapp3.1\BankV05.AssemblyInfo.cs
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\BankV05\obj\Debug\netcoreapp3.1\BankV05.csproj.CoreCompileInputs.cache
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\BankV05\obj\Debug\netcoreapp3.1\BankV05.dll
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\BankV05\obj\Debug\netcoreapp3.1\BankV05.pdb
+C:\Users\Steven\OneDrive\Skole\Datamatiker\1.Semester\SoftwareConstruction\Exercises\Solved\BankV05\obj\Debug\netcoreapp3.1\BankV05.genruntimeconfig.cache
