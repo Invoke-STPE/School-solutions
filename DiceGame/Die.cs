@@ -7,11 +7,13 @@
     {
         #region Instance fields
         private int _faceValue;
+        private int _sides;
         #endregion
 
         #region Constructor
-        public Die()
+        public Die(int sides)
         {
+            _sides = sides;
             Roll();  // This puts the die in a well-defined state
         }
         #endregion
@@ -30,7 +32,7 @@
         /// </summary>
         public void Roll()
         {
-            _faceValue = RandomNumberGenerator.Generate(1, 6);
+            _faceValue = RandomNumberGenerator.Generate(1, _sides);
         } 
         #endregion
     }

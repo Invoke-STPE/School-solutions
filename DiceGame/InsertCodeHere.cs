@@ -5,12 +5,14 @@
         public void MyCode()
         {
             // The FIRST line of code should be BELOW this line
-            DiceCup diceCup = new DiceCup();
-            System.Console.WriteLine($"total value {diceCup.TotalValue}");
-            diceCup.Shake();
-            System.Console.WriteLine($"total value {diceCup.TotalValue}");
-            diceCup.Shake();
-            System.Console.WriteLine($"total value {diceCup.TotalValue}");
+            DiceCup dicecup = new DiceCup();
+            System.Console.WriteLine($"Total value: {dicecup.TotalValue}");
+            dicecup.Shake();
+            System.Console.WriteLine($"Total value: {dicecup.TotalValue}");
+            DiceCup dicecup2 = new DiceCup(20);
+            System.Console.WriteLine($"Total value: {dicecup2.TotalValue}");
+            dicecup2.Shake();
+            System.Console.WriteLine($"Total value: {dicecup2.TotalValue}");
             // The LAST line of code should be ABOVE this line
         }
     }

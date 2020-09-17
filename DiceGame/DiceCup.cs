@@ -7,16 +7,15 @@
     {
         #region Instance fields
         private Die _die1;
-        private Die _die2;
-        private Die _die3;
+        private int _sides;
         #endregion
 
         #region Constructor
-        public DiceCup()
+        public DiceCup(int sides = 6)
         {
-            _die1 = new Die();
-            _die2 = new Die();
-            _die1 = new Die();
+            _sides = sides;
+            _die1 = new Die(_sides);
+
         }
         #endregion
 
@@ -26,7 +25,7 @@
         //
         // public int TotalValue
         public int TotalValue {
-            get { return _die1.FaceValue + _die2.FaceValue +_die3.FaceValue; }
+            get { return _die1.FaceValue; }
         }
         #endregion
 
@@ -35,8 +34,6 @@
         // public void Shake()
         public void Shake() {
             _die1.Roll();
-            _die2.Roll();
-            _die3.Roll(); 
         }
     }
 }

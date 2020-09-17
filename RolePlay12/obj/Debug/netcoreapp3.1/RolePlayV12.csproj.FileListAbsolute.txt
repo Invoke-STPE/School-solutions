@@ -1,0 +1,13 @@
+C:\Users\Steven\Documents\SoftwareConstruction\Exercises\Solved\RolePlay12\bin\Debug\netcoreapp3.1\RolePlayV12.exe
+C:\Users\Steven\Documents\SoftwareConstruction\Exercises\Solved\RolePlay12\bin\Debug\netcoreapp3.1\RolePlayV12.deps.json
+C:\Users\Steven\Documents\SoftwareConstruction\Exercises\Solved\RolePlay12\bin\Debug\netcoreapp3.1\RolePlayV12.runtimeconfig.json
+C:\Users\Steven\Documents\SoftwareConstruction\Exercises\Solved\RolePlay12\bin\Debug\netcoreapp3.1\RolePlayV12.runtimeconfig.dev.json
+C:\Users\Steven\Documents\SoftwareConstruction\Exercises\Solved\RolePlay12\bin\Debug\netcoreapp3.1\RolePlayV12.dll
+C:\Users\Steven\Documents\SoftwareConstruction\Exercises\Solved\RolePlay12\bin\Debug\netcoreapp3.1\RolePlayV12.pdb
+C:\Users\Steven\Documents\SoftwareConstruction\Exercises\Solved\RolePlay12\obj\Debug\netcoreapp3.1\RolePlayV12.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\SoftwareConstruction\Exercises\Solved\RolePlay12\obj\Debug\netcoreapp3.1\RolePlayV12.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\SoftwareConstruction\Exercises\Solved\RolePlay12\obj\Debug\netcoreapp3.1\RolePlayV12.AssemblyInfo.cs
+C:\Users\Steven\Documents\SoftwareConstruction\Exercises\Solved\RolePlay12\obj\Debug\netcoreapp3.1\RolePlayV12.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\SoftwareConstruction\Exercises\Solved\RolePlay12\obj\Debug\netcoreapp3.1\RolePlayV12.dll
+C:\Users\Steven\Documents\SoftwareConstruction\Exercises\Solved\RolePlay12\obj\Debug\netcoreapp3.1\RolePlayV12.pdb
+C:\Users\Steven\Documents\SoftwareConstruction\Exercises\Solved\RolePlay12\obj\Debug\netcoreapp3.1\RolePlayV12.genruntimeconfig.cache
