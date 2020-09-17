@@ -9,14 +9,16 @@ namespace RolePlayV12
         private int _hitPoints;
         private Sword _sword;
         private Sword _optSword;
+        private int _modifer;
         #endregion
 
         #region Constructor
-        public Warrior(string name, int hitPoints, Sword sword, Sword optSword = null)
+        public Warrior(string name, int hitPoints, Sword sword, int modifier, Sword optSword = null)
         {
             _name = name;
             _hitPoints = hitPoints;
             _sword = sword;
+            _modifer = modifier;
             if (optSword != null) { // If input is given for an optional sword, then use it.
                 _optSword = optSword;
             }
@@ -53,17 +55,27 @@ namespace RolePlayV12
             if (_optSword != null) {
                 swordDMG = _sword.DealDamage() + _optSword.DealDamage();
             } else { swordDMG = _sword.DealDamage(); }
-            return swordDMG; 
+
+            return swordDMG + _modifer; 
         }
 
         public string GetInfo()
         {
-            return $"{Name} has {HitPoints} hit points ({(Dead ? "dead" : "alive")})";
+            string message;
+            if (_optSword != null){
+                message = $"{Name} has {HitPoints} hit points ({(Dead ? "dead" : "alive")})\nHe wields {_sword.Name } and {_optSword.Name}";
+            } else {
+                message = $"{Name} has {HitPoints} hit points ({(Dead ? "dead" : "alive")})\nHe wields {_sword.Name }";
+            }
+            return message;
         }
 
         // Make it possible to change swords, give them default values!
         public void ChangeSword(Sword sword, Sword optSword = null) {
-            
+            _sword = sword;
+            if (optSword != null) {
+                _optSword = optSword;
+            }
         }
         #endregion
     }

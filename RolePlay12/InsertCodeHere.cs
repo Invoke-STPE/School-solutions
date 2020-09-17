@@ -11,8 +11,8 @@ namespace RolePlayV12
             Sword swordA = new Sword("MAXKILL", 60, 90);
             Sword swordB = new Sword("THE UNFORGIVEN", 30, 100);
             Sword optSwordA = new Sword("KILLER UPGRADED", 80, 120);
-            Warrior warriorA = new Warrior("Ragnar", 200, swordA, optSwordA);
-            Warrior warriorB = new Warrior("Lagertha", 240, swordB);
+            Warrior warriorA = new Warrior("Ragnar", 200, swordA, 50, optSwordA);
+            Warrior warriorB = new Warrior("Lagertha", 240, swordB, 20);
 
             Console.WriteLine("Just after creation:");
             Console.WriteLine(warriorA.GetInfo());
