@@ -1,0 +1,13 @@
+C:\Users\Steven\Documents\Solved\Unsolved\StockPortfolio\bin\Debug\netcoreapp3.1\StockPortfolio.exe
+C:\Users\Steven\Documents\Solved\Unsolved\StockPortfolio\bin\Debug\netcoreapp3.1\StockPortfolio.deps.json
+C:\Users\Steven\Documents\Solved\Unsolved\StockPortfolio\bin\Debug\netcoreapp3.1\StockPortfolio.runtimeconfig.json
+C:\Users\Steven\Documents\Solved\Unsolved\StockPortfolio\bin\Debug\netcoreapp3.1\StockPortfolio.runtimeconfig.dev.json
+C:\Users\Steven\Documents\Solved\Unsolved\StockPortfolio\bin\Debug\netcoreapp3.1\StockPortfolio.dll
+C:\Users\Steven\Documents\Solved\Unsolved\StockPortfolio\bin\Debug\netcoreapp3.1\StockPortfolio.pdb
+C:\Users\Steven\Documents\Solved\Unsolved\StockPortfolio\obj\Debug\netcoreapp3.1\StockPortfolio.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\Solved\Unsolved\StockPortfolio\obj\Debug\netcoreapp3.1\StockPortfolio.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\Solved\Unsolved\StockPortfolio\obj\Debug\netcoreapp3.1\StockPortfolio.AssemblyInfo.cs
+C:\Users\Steven\Documents\Solved\Unsolved\StockPortfolio\obj\Debug\netcoreapp3.1\StockPortfolio.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\Solved\Unsolved\StockPortfolio\obj\Debug\netcoreapp3.1\StockPortfolio.dll
+C:\Users\Steven\Documents\Solved\Unsolved\StockPortfolio\obj\Debug\netcoreapp3.1\StockPortfolio.pdb
+C:\Users\Steven\Documents\Solved\Unsolved\StockPortfolio\obj\Debug\netcoreapp3.1\StockPortfolio.genruntimeconfig.cache

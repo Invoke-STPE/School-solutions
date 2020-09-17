@@ -1,0 +1,13 @@
+C:\Users\Steven\Documents\Solved\School-solutions\StaticExamples\bin\Debug\netcoreapp3.1\StaticExamples.exe
+C:\Users\Steven\Documents\Solved\School-solutions\StaticExamples\bin\Debug\netcoreapp3.1\StaticExamples.deps.json
+C:\Users\Steven\Documents\Solved\School-solutions\StaticExamples\bin\Debug\netcoreapp3.1\StaticExamples.runtimeconfig.json
+C:\Users\Steven\Documents\Solved\School-solutions\StaticExamples\bin\Debug\netcoreapp3.1\StaticExamples.runtimeconfig.dev.json
+C:\Users\Steven\Documents\Solved\School-solutions\StaticExamples\bin\Debug\netcoreapp3.1\StaticExamples.dll
+C:\Users\Steven\Documents\Solved\School-solutions\StaticExamples\bin\Debug\netcoreapp3.1\StaticExamples.pdb
+C:\Users\Steven\Documents\Solved\School-solutions\StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\Solved\School-solutions\StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\Solved\School-solutions\StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.AssemblyInfo.cs
+C:\Users\Steven\Documents\Solved\School-solutions\StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\Solved\School-solutions\StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.dll
+C:\Users\Steven\Documents\Solved\School-solutions\StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.pdb
+C:\Users\Steven\Documents\Solved\School-solutions\StaticExamples\obj\Debug\netcoreapp3.1\StaticExamples.genruntimeconfig.cache
