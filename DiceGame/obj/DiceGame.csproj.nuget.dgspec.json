@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Steven\\Documents\\SoftwareConstruction\\Exercises\\Solved\\DiceGame\\DiceGame.csproj": {}
+    "C:\\Users\\Steven\\Documents\\GitHub\\School-solutions\\DiceGame\\DiceGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Steven\\Documents\\SoftwareConstruction\\Exercises\\Solved\\DiceGame\\DiceGame.csproj": {
+    "C:\\Users\\Steven\\Documents\\GitHub\\School-solutions\\DiceGame\\DiceGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Steven\\Documents\\SoftwareConstruction\\Exercises\\Solved\\DiceGame\\DiceGame.csproj",
+        "projectUniqueName": "C:\\Users\\Steven\\Documents\\GitHub\\School-solutions\\DiceGame\\DiceGame.csproj",
         "projectName": "DiceGame",
-        "projectPath": "C:\\Users\\Steven\\Documents\\SoftwareConstruction\\Exercises\\Solved\\DiceGame\\DiceGame.csproj",
+        "projectPath": "C:\\Users\\Steven\\Documents\\GitHub\\School-solutions\\DiceGame\\DiceGame.csproj",
         "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Steven\\Documents\\SoftwareConstruction\\Exercises\\Solved\\DiceGame\\obj\\",
+        "outputPath": "C:\\Users\\Steven\\Documents\\GitHub\\School-solutions\\DiceGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Steven\\AppData\\Roaming\\NuGet\\NuGet.Config"

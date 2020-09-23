@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MQDGw98iD8lC5+8kadkEIHh1yXzwjtAiiTHM1rxLspSDlP1GF46NIbbeenqD1+EaZLCgNBjrzs1BRVawaKSZbg==",
+  "dgSpecHash": "LTwlmdMgHtuzTbKewLHGnsODevbdZhTLh5u77LuMMoQRT40kVhrz2SEvOJ31mPqdI8+YsyI6AZ0FMejG0X1dTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Steven\\Documents\\SoftwareConstruction\\Exercises\\Solved\\DiceGame\\DiceGame.csproj",
+  "projectFilePath": "C:\\Users\\Steven\\Documents\\GitHub\\School-solutions\\DiceGame\\DiceGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
