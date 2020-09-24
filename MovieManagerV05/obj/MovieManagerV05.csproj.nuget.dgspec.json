@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Steven\\OneDrive\\Skole\\Datamatiker\\1.Semester\\SoftwareConstruction\\VSCode\\MyFirstConsoleApp\\unsolved_csharp_projects-master\\MovieManagerV05\\MovieManagerV05.csproj": {}
+    "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\MovieManagerV05\\MovieManagerV05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Steven\\OneDrive\\Skole\\Datamatiker\\1.Semester\\SoftwareConstruction\\VSCode\\MyFirstConsoleApp\\unsolved_csharp_projects-master\\MovieManagerV05\\MovieManagerV05.csproj": {
+    "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\MovieManagerV05\\MovieManagerV05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Steven\\OneDrive\\Skole\\Datamatiker\\1.Semester\\SoftwareConstruction\\VSCode\\MyFirstConsoleApp\\unsolved_csharp_projects-master\\MovieManagerV05\\MovieManagerV05.csproj",
+        "projectUniqueName": "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\MovieManagerV05\\MovieManagerV05.csproj",
         "projectName": "MovieManagerV05",
-        "projectPath": "C:\\Users\\Steven\\OneDrive\\Skole\\Datamatiker\\1.Semester\\SoftwareConstruction\\VSCode\\MyFirstConsoleApp\\unsolved_csharp_projects-master\\MovieManagerV05\\MovieManagerV05.csproj",
+        "projectPath": "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\MovieManagerV05\\MovieManagerV05.csproj",
         "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Steven\\OneDrive\\Skole\\Datamatiker\\1.Semester\\SoftwareConstruction\\VSCode\\MyFirstConsoleApp\\unsolved_csharp_projects-master\\MovieManagerV05\\obj\\",
+        "outputPath": "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\MovieManagerV05\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Steven\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Steven\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
