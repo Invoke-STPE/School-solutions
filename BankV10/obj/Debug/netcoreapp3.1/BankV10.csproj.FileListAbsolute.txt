@@ -1,0 +1,13 @@
+C:\Users\Steven\Documents\Solved\School-solutions\BankV10\bin\Debug\netcoreapp3.1\BankV10.exe
+C:\Users\Steven\Documents\Solved\School-solutions\BankV10\bin\Debug\netcoreapp3.1\BankV10.deps.json
+C:\Users\Steven\Documents\Solved\School-solutions\BankV10\bin\Debug\netcoreapp3.1\BankV10.runtimeconfig.json
+C:\Users\Steven\Documents\Solved\School-solutions\BankV10\bin\Debug\netcoreapp3.1\BankV10.runtimeconfig.dev.json
+C:\Users\Steven\Documents\Solved\School-solutions\BankV10\bin\Debug\netcoreapp3.1\BankV10.dll
+C:\Users\Steven\Documents\Solved\School-solutions\BankV10\bin\Debug\netcoreapp3.1\BankV10.pdb
+C:\Users\Steven\Documents\Solved\School-solutions\BankV10\obj\Debug\netcoreapp3.1\BankV10.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\Solved\School-solutions\BankV10\obj\Debug\netcoreapp3.1\BankV10.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\Solved\School-solutions\BankV10\obj\Debug\netcoreapp3.1\BankV10.AssemblyInfo.cs
+C:\Users\Steven\Documents\Solved\School-solutions\BankV10\obj\Debug\netcoreapp3.1\BankV10.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\Solved\School-solutions\BankV10\obj\Debug\netcoreapp3.1\BankV10.dll
+C:\Users\Steven\Documents\Solved\School-solutions\BankV10\obj\Debug\netcoreapp3.1\BankV10.pdb
+C:\Users\Steven\Documents\Solved\School-solutions\BankV10\obj\Debug\netcoreapp3.1\BankV10.genruntimeconfig.cache
