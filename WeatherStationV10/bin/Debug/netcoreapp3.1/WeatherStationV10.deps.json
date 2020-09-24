@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WeatherStationV10/1.0.0": {
+        "runtime": {
+          "WeatherStationV10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherStationV10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

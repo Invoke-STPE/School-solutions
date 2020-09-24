@@ -1,0 +1,13 @@
+C:\Users\Steven\Documents\GitHub\School-solutions\CorrectChangeAutomat\bin\Debug\netcoreapp3.1\CorrectChangeAutomat.exe
+C:\Users\Steven\Documents\GitHub\School-solutions\CorrectChangeAutomat\bin\Debug\netcoreapp3.1\CorrectChangeAutomat.deps.json
+C:\Users\Steven\Documents\GitHub\School-solutions\CorrectChangeAutomat\bin\Debug\netcoreapp3.1\CorrectChangeAutomat.runtimeconfig.json
+C:\Users\Steven\Documents\GitHub\School-solutions\CorrectChangeAutomat\bin\Debug\netcoreapp3.1\CorrectChangeAutomat.runtimeconfig.dev.json
+C:\Users\Steven\Documents\GitHub\School-solutions\CorrectChangeAutomat\bin\Debug\netcoreapp3.1\CorrectChangeAutomat.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\CorrectChangeAutomat\bin\Debug\netcoreapp3.1\CorrectChangeAutomat.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\CorrectChangeAutomat\obj\Debug\netcoreapp3.1\CorrectChangeAutomat.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\CorrectChangeAutomat\obj\Debug\netcoreapp3.1\CorrectChangeAutomat.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\CorrectChangeAutomat\obj\Debug\netcoreapp3.1\CorrectChangeAutomat.AssemblyInfo.cs
+C:\Users\Steven\Documents\GitHub\School-solutions\CorrectChangeAutomat\obj\Debug\netcoreapp3.1\CorrectChangeAutomat.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\CorrectChangeAutomat\obj\Debug\netcoreapp3.1\CorrectChangeAutomat.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\CorrectChangeAutomat\obj\Debug\netcoreapp3.1\CorrectChangeAutomat.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\CorrectChangeAutomat\obj\Debug\netcoreapp3.1\CorrectChangeAutomat.genruntimeconfig.cache

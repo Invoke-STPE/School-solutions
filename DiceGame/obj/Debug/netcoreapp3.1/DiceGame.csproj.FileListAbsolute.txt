@@ -11,3 +11,9 @@ C:\Users\Steven\Documents\SoftwareConstruction\Exercises\Solved\DiceGame\obj\Deb
 C:\Users\Steven\Documents\SoftwareConstruction\Exercises\Solved\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.dll
 C:\Users\Steven\Documents\SoftwareConstruction\Exercises\Solved\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.pdb
 C:\Users\Steven\Documents\SoftwareConstruction\Exercises\Solved\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.genruntimeconfig.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.AssemblyInfo.cs
+C:\Users\Steven\Documents\GitHub\School-solutions\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\DiceGame\obj\Debug\netcoreapp3.1\DiceGame.pdb

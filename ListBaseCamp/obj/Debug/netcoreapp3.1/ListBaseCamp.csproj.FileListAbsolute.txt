@@ -1,0 +1,13 @@
+C:\Users\Steven\Documents\GitHub\School-solutions\ListBaseCamp\bin\Debug\netcoreapp3.1\ListBaseCamp.exe
+C:\Users\Steven\Documents\GitHub\School-solutions\ListBaseCamp\bin\Debug\netcoreapp3.1\ListBaseCamp.deps.json
+C:\Users\Steven\Documents\GitHub\School-solutions\ListBaseCamp\bin\Debug\netcoreapp3.1\ListBaseCamp.runtimeconfig.json
+C:\Users\Steven\Documents\GitHub\School-solutions\ListBaseCamp\bin\Debug\netcoreapp3.1\ListBaseCamp.runtimeconfig.dev.json
+C:\Users\Steven\Documents\GitHub\School-solutions\ListBaseCamp\bin\Debug\netcoreapp3.1\ListBaseCamp.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\ListBaseCamp\bin\Debug\netcoreapp3.1\ListBaseCamp.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\ListBaseCamp\obj\Debug\netcoreapp3.1\ListBaseCamp.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\ListBaseCamp\obj\Debug\netcoreapp3.1\ListBaseCamp.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\ListBaseCamp\obj\Debug\netcoreapp3.1\ListBaseCamp.AssemblyInfo.cs
+C:\Users\Steven\Documents\GitHub\School-solutions\ListBaseCamp\obj\Debug\netcoreapp3.1\ListBaseCamp.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\ListBaseCamp\obj\Debug\netcoreapp3.1\ListBaseCamp.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\ListBaseCamp\obj\Debug\netcoreapp3.1\ListBaseCamp.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\ListBaseCamp\obj\Debug\netcoreapp3.1\ListBaseCamp.genruntimeconfig.cache
