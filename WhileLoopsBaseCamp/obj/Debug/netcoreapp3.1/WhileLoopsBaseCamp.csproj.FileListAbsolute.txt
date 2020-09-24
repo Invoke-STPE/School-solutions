@@ -1,0 +1,13 @@
+C:\Users\Steven\Documents\GitHub\School-solutions\WhileLoopsBaseCamp\bin\Debug\netcoreapp3.1\WhileLoopsBaseCamp.exe
+C:\Users\Steven\Documents\GitHub\School-solutions\WhileLoopsBaseCamp\bin\Debug\netcoreapp3.1\WhileLoopsBaseCamp.deps.json
+C:\Users\Steven\Documents\GitHub\School-solutions\WhileLoopsBaseCamp\bin\Debug\netcoreapp3.1\WhileLoopsBaseCamp.runtimeconfig.json
+C:\Users\Steven\Documents\GitHub\School-solutions\WhileLoopsBaseCamp\bin\Debug\netcoreapp3.1\WhileLoopsBaseCamp.runtimeconfig.dev.json
+C:\Users\Steven\Documents\GitHub\School-solutions\WhileLoopsBaseCamp\bin\Debug\netcoreapp3.1\WhileLoopsBaseCamp.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\WhileLoopsBaseCamp\bin\Debug\netcoreapp3.1\WhileLoopsBaseCamp.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\WhileLoopsBaseCamp\obj\Debug\netcoreapp3.1\WhileLoopsBaseCamp.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\WhileLoopsBaseCamp\obj\Debug\netcoreapp3.1\WhileLoopsBaseCamp.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\WhileLoopsBaseCamp\obj\Debug\netcoreapp3.1\WhileLoopsBaseCamp.AssemblyInfo.cs
+C:\Users\Steven\Documents\GitHub\School-solutions\WhileLoopsBaseCamp\obj\Debug\netcoreapp3.1\WhileLoopsBaseCamp.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\WhileLoopsBaseCamp\obj\Debug\netcoreapp3.1\WhileLoopsBaseCamp.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\WhileLoopsBaseCamp\obj\Debug\netcoreapp3.1\WhileLoopsBaseCamp.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\WhileLoopsBaseCamp\obj\Debug\netcoreapp3.1\WhileLoopsBaseCamp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Steven\Documents\GitHub\School-solutions\DrawShapes\bin\Debug\netcoreapp3.1\DrawShapes.exe
+C:\Users\Steven\Documents\GitHub\School-solutions\DrawShapes\bin\Debug\netcoreapp3.1\DrawShapes.deps.json
+C:\Users\Steven\Documents\GitHub\School-solutions\DrawShapes\bin\Debug\netcoreapp3.1\DrawShapes.runtimeconfig.json
+C:\Users\Steven\Documents\GitHub\School-solutions\DrawShapes\bin\Debug\netcoreapp3.1\DrawShapes.runtimeconfig.dev.json
+C:\Users\Steven\Documents\GitHub\School-solutions\DrawShapes\bin\Debug\netcoreapp3.1\DrawShapes.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\DrawShapes\bin\Debug\netcoreapp3.1\DrawShapes.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\DrawShapes\obj\Debug\netcoreapp3.1\DrawShapes.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\DrawShapes\obj\Debug\netcoreapp3.1\DrawShapes.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\DrawShapes\obj\Debug\netcoreapp3.1\DrawShapes.AssemblyInfo.cs
+C:\Users\Steven\Documents\GitHub\School-solutions\DrawShapes\obj\Debug\netcoreapp3.1\DrawShapes.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\DrawShapes\obj\Debug\netcoreapp3.1\DrawShapes.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\DrawShapes\obj\Debug\netcoreapp3.1\DrawShapes.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\DrawShapes\obj\Debug\netcoreapp3.1\DrawShapes.genruntimeconfig.cache
