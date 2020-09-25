@@ -40,6 +40,13 @@ namespace RolePlayV21
                 List<string> alive = new List<string>();
 
                 // TODO - implement as specified
+                foreach(Beast beast in _army)
+                {
+                    if (!beast.Dead)
+                    {
+                        alive.Add(beast.Name.ToString());s
+                    }
+                }
 
                 return alive;
             }
