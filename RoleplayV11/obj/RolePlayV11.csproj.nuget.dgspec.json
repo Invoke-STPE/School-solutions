@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steven\\onedrive\\Skole\\Datamatiker\\1.Semester\\SoftwareConstruction\\Exercises\\Solved\\RoleplayV11\\RolePlayV11.csproj": {}
+    "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\RoleplayV11\\RolePlayV11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steven\\onedrive\\Skole\\Datamatiker\\1.Semester\\SoftwareConstruction\\Exercises\\Solved\\RoleplayV11\\RolePlayV11.csproj": {
+    "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\RoleplayV11\\RolePlayV11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steven\\onedrive\\Skole\\Datamatiker\\1.Semester\\SoftwareConstruction\\Exercises\\Solved\\RoleplayV11\\RolePlayV11.csproj",
+        "projectUniqueName": "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\RoleplayV11\\RolePlayV11.csproj",
         "projectName": "RolePlayV11",
-        "projectPath": "C:\\Users\\steven\\onedrive\\Skole\\Datamatiker\\1.Semester\\SoftwareConstruction\\Exercises\\Solved\\RoleplayV11\\RolePlayV11.csproj",
+        "projectPath": "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\RoleplayV11\\RolePlayV11.csproj",
         "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steven\\onedrive\\Skole\\Datamatiker\\1.Semester\\SoftwareConstruction\\Exercises\\Solved\\RoleplayV11\\obj\\",
+        "outputPath": "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\RoleplayV11\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

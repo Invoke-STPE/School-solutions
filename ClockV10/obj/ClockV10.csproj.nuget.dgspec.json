@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steven\\onedrive\\Skole\\Datamatiker\\1.Semester\\SoftwareConstruction\\Exercises\\Solved\\ClockV10\\ClockV10.csproj": {}
+    "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\ClockV10\\ClockV10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steven\\onedrive\\Skole\\Datamatiker\\1.Semester\\SoftwareConstruction\\Exercises\\Solved\\ClockV10\\ClockV10.csproj": {
+    "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\ClockV10\\ClockV10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steven\\onedrive\\Skole\\Datamatiker\\1.Semester\\SoftwareConstruction\\Exercises\\Solved\\ClockV10\\ClockV10.csproj",
+        "projectUniqueName": "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\ClockV10\\ClockV10.csproj",
         "projectName": "ClockV10",
-        "projectPath": "C:\\Users\\steven\\onedrive\\Skole\\Datamatiker\\1.Semester\\SoftwareConstruction\\Exercises\\Solved\\ClockV10\\ClockV10.csproj",
+        "projectPath": "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\ClockV10\\ClockV10.csproj",
         "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steven\\onedrive\\Skole\\Datamatiker\\1.Semester\\SoftwareConstruction\\Exercises\\Solved\\ClockV10\\obj\\",
+        "outputPath": "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\ClockV10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

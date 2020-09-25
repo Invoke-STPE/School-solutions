@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Steven\\Documents\\Solved\\Unsolved\\StockPortfolio\\StockPortfolio.csproj",
+      "projectUniqueName": "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\StockPortfolio\\StockPortfolio.csproj",
       "projectName": "StockPortfolio",
-      "projectPath": "C:\\Users\\Steven\\Documents\\Solved\\Unsolved\\StockPortfolio\\StockPortfolio.csproj",
+      "projectPath": "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\StockPortfolio\\StockPortfolio.csproj",
       "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Steven\\Documents\\Solved\\Unsolved\\StockPortfolio\\obj\\",
+      "outputPath": "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\StockPortfolio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

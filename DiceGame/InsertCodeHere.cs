@@ -13,9 +13,7 @@
             System.Console.WriteLine($"Total value: {dicecup2.TotalValue}");
             dicecup2.Shake();
             System.Console.WriteLine($"Total value: {dicecup2.TotalValue}");
-            int x;
 
-            System.Console.WriteLine(x);
             // The LAST line of code should be ABOVE this line
         }
     }
