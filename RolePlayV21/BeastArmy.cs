@@ -5,6 +5,7 @@ namespace RolePlayV21
     public class BeastArmy
     {
         private List<Beast> _army;
+        public int Wins {get;set;}
 
         public BeastArmy()
         {
@@ -26,7 +27,8 @@ namespace RolePlayV21
         {
             get
             {
-                return false; // TODO - implement as specified
+                Wins += 1;
+                return BeastsAlive.Count == 0 ? true : false; // TODO - implement as specified
             } 
         }
 
@@ -44,7 +46,7 @@ namespace RolePlayV21
                 {
                     if (!beast.Dead)
                     {
-                        alive.Add(beast.Name.ToString());s
+                        alive.Add(beast.Name.ToString());
                     }
                 }
 
@@ -63,6 +65,14 @@ namespace RolePlayV21
 
             // TODO - implement as specified
 
+            foreach (Beast beast in _army) 
+            {
+                if (!beast.Dead)
+                {
+                    totalDamage = beast.DealDamage();
+                }
+            }
+
             return totalDamage;
         }
 
@@ -73,7 +83,14 @@ namespace RolePlayV21
         /// </summary>
         public void ReceiveDamage(int damage)
         {
-            // TODO - implement as specified
+            foreach (Beast beast in _army)
+            {
+                if (!beast.Dead)
+                {
+                    beast.ReceiveDamage(damage);
+                    break;
+                }
+            }
         }
     }
 }

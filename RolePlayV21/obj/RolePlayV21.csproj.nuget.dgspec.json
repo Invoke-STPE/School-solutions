@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\RolePlayV21\\RolePlayV21.csproj": {}
+    "C:\\Users\\Steven\\Documents\\GitHub\\School-solutions\\RolePlayV21\\RolePlayV21.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\RolePlayV21\\RolePlayV21.csproj": {
+    "C:\\Users\\Steven\\Documents\\GitHub\\School-solutions\\RolePlayV21\\RolePlayV21.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\RolePlayV21\\RolePlayV21.csproj",
+        "projectUniqueName": "C:\\Users\\Steven\\Documents\\GitHub\\School-solutions\\RolePlayV21\\RolePlayV21.csproj",
         "projectName": "RolePlayV21",
-        "projectPath": "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\RolePlayV21\\RolePlayV21.csproj",
+        "projectPath": "C:\\Users\\Steven\\Documents\\GitHub\\School-solutions\\RolePlayV21\\RolePlayV21.csproj",
         "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Steven\\Documents\\Solved\\School-solutions\\RolePlayV21\\obj\\",
+        "outputPath": "C:\\Users\\Steven\\Documents\\GitHub\\School-solutions\\RolePlayV21\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Steven\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Steven\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
