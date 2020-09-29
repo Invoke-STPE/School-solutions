@@ -1,0 +1,13 @@
+C:\Users\Steven\Documents\Solved\School-solutions\Flinter\bin\Debug\netcoreapp3.1\Flinter.exe
+C:\Users\Steven\Documents\Solved\School-solutions\Flinter\bin\Debug\netcoreapp3.1\Flinter.deps.json
+C:\Users\Steven\Documents\Solved\School-solutions\Flinter\bin\Debug\netcoreapp3.1\Flinter.runtimeconfig.json
+C:\Users\Steven\Documents\Solved\School-solutions\Flinter\bin\Debug\netcoreapp3.1\Flinter.runtimeconfig.dev.json
+C:\Users\Steven\Documents\Solved\School-solutions\Flinter\bin\Debug\netcoreapp3.1\Flinter.dll
+C:\Users\Steven\Documents\Solved\School-solutions\Flinter\bin\Debug\netcoreapp3.1\Flinter.pdb
+C:\Users\Steven\Documents\Solved\School-solutions\Flinter\obj\Debug\netcoreapp3.1\Flinter.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\Solved\School-solutions\Flinter\obj\Debug\netcoreapp3.1\Flinter.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\Solved\School-solutions\Flinter\obj\Debug\netcoreapp3.1\Flinter.AssemblyInfo.cs
+C:\Users\Steven\Documents\Solved\School-solutions\Flinter\obj\Debug\netcoreapp3.1\Flinter.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\Solved\School-solutions\Flinter\obj\Debug\netcoreapp3.1\Flinter.dll
+C:\Users\Steven\Documents\Solved\School-solutions\Flinter\obj\Debug\netcoreapp3.1\Flinter.pdb
+C:\Users\Steven\Documents\Solved\School-solutions\Flinter\obj\Debug\netcoreapp3.1\Flinter.genruntimeconfig.cache
