@@ -40,7 +40,9 @@
         /// </summary>
         public bool Dead
         {
-            get { return (_hitPoints <= 0); }
+            get { 
+                    return (_hitPoints <= 0);
+                }
         }
 
         /// <summary>
@@ -100,7 +102,7 @@
             {
                 _log.Save($"Beast ({_name}) died!");
             }
-        }  
+        }
         #endregion
     }
 }

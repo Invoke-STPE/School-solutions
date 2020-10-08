@@ -14,6 +14,7 @@
         private int _maxHitPoints;
         private int _minDamage;
         private int _maxDamage;
+        public int Wins {get;set;}
         private NumberGenerator _generator;
         private BattleLog _log;
         #endregion
@@ -40,7 +41,9 @@
         /// </summary>
         public bool Dead
         {
-            get { return (_hitPoints <= 0); }
+            get { 
+                Wins += 1;
+                return (_hitPoints <= 0); }
         }
 
         /// <summary>

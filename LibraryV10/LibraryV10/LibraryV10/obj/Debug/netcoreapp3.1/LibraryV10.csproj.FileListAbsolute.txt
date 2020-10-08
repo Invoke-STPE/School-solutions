@@ -1,0 +1,13 @@
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV10\LibraryV10\LibraryV10\bin\Debug\netcoreapp3.1\LibraryV10.exe
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV10\LibraryV10\LibraryV10\bin\Debug\netcoreapp3.1\LibraryV10.deps.json
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV10\LibraryV10\LibraryV10\bin\Debug\netcoreapp3.1\LibraryV10.runtimeconfig.json
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV10\LibraryV10\LibraryV10\bin\Debug\netcoreapp3.1\LibraryV10.runtimeconfig.dev.json
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV10\LibraryV10\LibraryV10\bin\Debug\netcoreapp3.1\LibraryV10.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV10\LibraryV10\LibraryV10\bin\Debug\netcoreapp3.1\LibraryV10.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV10\LibraryV10\LibraryV10\obj\Debug\netcoreapp3.1\LibraryV10.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV10\LibraryV10\LibraryV10\obj\Debug\netcoreapp3.1\LibraryV10.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV10\LibraryV10\LibraryV10\obj\Debug\netcoreapp3.1\LibraryV10.AssemblyInfo.cs
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV10\LibraryV10\LibraryV10\obj\Debug\netcoreapp3.1\LibraryV10.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV10\LibraryV10\LibraryV10\obj\Debug\netcoreapp3.1\LibraryV10.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV10\LibraryV10\LibraryV10\obj\Debug\netcoreapp3.1\LibraryV10.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV10\LibraryV10\LibraryV10\obj\Debug\netcoreapp3.1\LibraryV10.genruntimeconfig.cache

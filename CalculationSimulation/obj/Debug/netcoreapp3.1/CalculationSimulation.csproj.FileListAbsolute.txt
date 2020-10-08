@@ -11,3 +11,16 @@ C:\Users\Steven\Documents\Solved\School-solutions\CalculationSimulation\obj\Debu
 C:\Users\Steven\Documents\Solved\School-solutions\CalculationSimulation\obj\Debug\netcoreapp3.1\CalculationSimulation.dll
 C:\Users\Steven\Documents\Solved\School-solutions\CalculationSimulation\obj\Debug\netcoreapp3.1\CalculationSimulation.pdb
 C:\Users\Steven\Documents\Solved\School-solutions\CalculationSimulation\obj\Debug\netcoreapp3.1\CalculationSimulation.genruntimeconfig.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\CalculationSimulation\bin\Debug\netcoreapp3.1\CalculationSimulation.exe
+C:\Users\Steven\Documents\GitHub\School-solutions\CalculationSimulation\bin\Debug\netcoreapp3.1\CalculationSimulation.deps.json
+C:\Users\Steven\Documents\GitHub\School-solutions\CalculationSimulation\bin\Debug\netcoreapp3.1\CalculationSimulation.runtimeconfig.json
+C:\Users\Steven\Documents\GitHub\School-solutions\CalculationSimulation\bin\Debug\netcoreapp3.1\CalculationSimulation.runtimeconfig.dev.json
+C:\Users\Steven\Documents\GitHub\School-solutions\CalculationSimulation\bin\Debug\netcoreapp3.1\CalculationSimulation.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\CalculationSimulation\bin\Debug\netcoreapp3.1\CalculationSimulation.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\CalculationSimulation\obj\Debug\netcoreapp3.1\CalculationSimulation.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\CalculationSimulation\obj\Debug\netcoreapp3.1\CalculationSimulation.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\CalculationSimulation\obj\Debug\netcoreapp3.1\CalculationSimulation.AssemblyInfo.cs
+C:\Users\Steven\Documents\GitHub\School-solutions\CalculationSimulation\obj\Debug\netcoreapp3.1\CalculationSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\CalculationSimulation\obj\Debug\netcoreapp3.1\CalculationSimulation.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\CalculationSimulation\obj\Debug\netcoreapp3.1\CalculationSimulation.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\CalculationSimulation\obj\Debug\netcoreapp3.1\CalculationSimulation.genruntimeconfig.cache

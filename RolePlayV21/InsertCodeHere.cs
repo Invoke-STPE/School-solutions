@@ -39,11 +39,48 @@ namespace RolePlayV21
             {
                 Console.WriteLine($"The Beast {theBeast.Name} won... ;-(");
             }
+            log.Save("==================================");
             #endregion
 
 
             // New battle logic (1-on-many)
             #region 1-on-many battle logic
+
+            Beast goblin1 = new Beast(generator, log, "Goblin1", 15, 5, 10);
+            Beast goblin2 = new Beast(generator, log, "Goblin2", 15, 5, 10);
+            Beast goblin3 = new Beast(generator, log, "Goblin3", 15, 5, 10);
+            Beast goblin4 = new Beast(generator, log, "Goblin4", 15, 5, 10);
+            BeastArmy goblinArmy = new BeastArmy();
+            
+            goblinArmy.AddBeast(goblin1);
+            goblinArmy.AddBeast(goblin2);
+            goblinArmy.AddBeast(goblin3);
+            goblinArmy.AddBeast(goblin4);
+
+            int battles = 100;
+        while (battles > 0) 
+        {
+            while (!theHero.Dead && !goblinArmy.Dead) 
+            {
+                int damageByHero = theHero.DealDamage();
+                goblinArmy.ReceiveDamage(damageByHero);
+
+                if (!goblinArmy.Dead)
+                {
+                    int damageByGoblins = goblinArmy.DealDamage(); 
+                    theHero.ReceiveDamage(damageByGoblins);
+                }
+                battles -= 1;
+            }
+        }
+            log.PrintLog();
+
+            double beastWinRate = goblinArmy.Wins;
+            double heroWinRate = theHero.Wins;
+
+            System.Console.WriteLine("Golins have won " + beastWinRate / 100 + " % of games, out of 100.");
+            System.Console.WriteLine("hero have won " + heroWinRate / 100 + " % of games, out of 100.");
+
 
             // TODO - implement 1-on-many battle logic
 
