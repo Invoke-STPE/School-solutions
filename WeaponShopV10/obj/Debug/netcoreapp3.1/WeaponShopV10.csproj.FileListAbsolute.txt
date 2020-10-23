@@ -1,0 +1,13 @@
+C:\Users\Steven\Documents\GitHub\School-solutions\WeaponShopV10\bin\Debug\netcoreapp3.1\WeaponShopV10.exe
+C:\Users\Steven\Documents\GitHub\School-solutions\WeaponShopV10\bin\Debug\netcoreapp3.1\WeaponShopV10.deps.json
+C:\Users\Steven\Documents\GitHub\School-solutions\WeaponShopV10\bin\Debug\netcoreapp3.1\WeaponShopV10.runtimeconfig.json
+C:\Users\Steven\Documents\GitHub\School-solutions\WeaponShopV10\bin\Debug\netcoreapp3.1\WeaponShopV10.runtimeconfig.dev.json
+C:\Users\Steven\Documents\GitHub\School-solutions\WeaponShopV10\bin\Debug\netcoreapp3.1\WeaponShopV10.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\WeaponShopV10\bin\Debug\netcoreapp3.1\WeaponShopV10.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\WeaponShopV10\obj\Debug\netcoreapp3.1\WeaponShopV10.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\WeaponShopV10\obj\Debug\netcoreapp3.1\WeaponShopV10.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\WeaponShopV10\obj\Debug\netcoreapp3.1\WeaponShopV10.AssemblyInfo.cs
+C:\Users\Steven\Documents\GitHub\School-solutions\WeaponShopV10\obj\Debug\netcoreapp3.1\WeaponShopV10.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\WeaponShopV10\obj\Debug\netcoreapp3.1\WeaponShopV10.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\WeaponShopV10\obj\Debug\netcoreapp3.1\WeaponShopV10.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\WeaponShopV10\obj\Debug\netcoreapp3.1\WeaponShopV10.genruntimeconfig.cache

@@ -15,6 +15,8 @@
             : base(description, InitialWandMinDamage, InitialWandMaxDamage)
         {
         } 
+        #endregion
+
         public int DamageFromWand()
         {
             int dmg = base.CalculateDamage();
@@ -24,6 +26,10 @@
             }
             return dmg;
         }
-        #endregion
+
+        public override string ToString()
+        {
+            return $"Wand min dmg: {InitialWandMinDamage} Wand max dmg: {InitialWandMaxDamage}";
+        }
     }
 }
