@@ -1,0 +1,13 @@
+C:\Users\Steven\Documents\GitHub\School-solutions\RolePlayV23\bin\Debug\netcoreapp3.1\RolePlayV23.exe
+C:\Users\Steven\Documents\GitHub\School-solutions\RolePlayV23\bin\Debug\netcoreapp3.1\RolePlayV23.deps.json
+C:\Users\Steven\Documents\GitHub\School-solutions\RolePlayV23\bin\Debug\netcoreapp3.1\RolePlayV23.runtimeconfig.json
+C:\Users\Steven\Documents\GitHub\School-solutions\RolePlayV23\bin\Debug\netcoreapp3.1\RolePlayV23.runtimeconfig.dev.json
+C:\Users\Steven\Documents\GitHub\School-solutions\RolePlayV23\bin\Debug\netcoreapp3.1\RolePlayV23.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\RolePlayV23\bin\Debug\netcoreapp3.1\RolePlayV23.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\RolePlayV23\obj\Debug\netcoreapp3.1\RolePlayV23.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\RolePlayV23\obj\Debug\netcoreapp3.1\RolePlayV23.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\RolePlayV23\obj\Debug\netcoreapp3.1\RolePlayV23.AssemblyInfo.cs
+C:\Users\Steven\Documents\GitHub\School-solutions\RolePlayV23\obj\Debug\netcoreapp3.1\RolePlayV23.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\RolePlayV23\obj\Debug\netcoreapp3.1\RolePlayV23.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\RolePlayV23\obj\Debug\netcoreapp3.1\RolePlayV23.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\RolePlayV23\obj\Debug\netcoreapp3.1\RolePlayV23.genruntimeconfig.cache

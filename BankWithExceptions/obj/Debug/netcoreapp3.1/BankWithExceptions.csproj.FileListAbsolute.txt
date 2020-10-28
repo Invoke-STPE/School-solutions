@@ -1,0 +1,13 @@
+C:\Users\Steven\Documents\GitHub\School-solutions\BankWithExceptions\bin\Debug\netcoreapp3.1\BankWithExceptions.exe
+C:\Users\Steven\Documents\GitHub\School-solutions\BankWithExceptions\bin\Debug\netcoreapp3.1\BankWithExceptions.deps.json
+C:\Users\Steven\Documents\GitHub\School-solutions\BankWithExceptions\bin\Debug\netcoreapp3.1\BankWithExceptions.runtimeconfig.json
+C:\Users\Steven\Documents\GitHub\School-solutions\BankWithExceptions\bin\Debug\netcoreapp3.1\BankWithExceptions.runtimeconfig.dev.json
+C:\Users\Steven\Documents\GitHub\School-solutions\BankWithExceptions\bin\Debug\netcoreapp3.1\BankWithExceptions.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\BankWithExceptions\bin\Debug\netcoreapp3.1\BankWithExceptions.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\BankWithExceptions\obj\Debug\netcoreapp3.1\BankWithExceptions.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\BankWithExceptions\obj\Debug\netcoreapp3.1\BankWithExceptions.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\BankWithExceptions\obj\Debug\netcoreapp3.1\BankWithExceptions.AssemblyInfo.cs
+C:\Users\Steven\Documents\GitHub\School-solutions\BankWithExceptions\obj\Debug\netcoreapp3.1\BankWithExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\BankWithExceptions\obj\Debug\netcoreapp3.1\BankWithExceptions.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\BankWithExceptions\obj\Debug\netcoreapp3.1\BankWithExceptions.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\BankWithExceptions\obj\Debug\netcoreapp3.1\BankWithExceptions.genruntimeconfig.cache

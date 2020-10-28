@@ -1,0 +1,13 @@
+C:\Users\Steven\Documents\GitHub\School-solutions\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.exe
+C:\Users\Steven\Documents\GitHub\School-solutions\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.deps.json
+C:\Users\Steven\Documents\GitHub\School-solutions\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.runtimeconfig.json
+C:\Users\Steven\Documents\GitHub\School-solutions\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.runtimeconfig.dev.json
+C:\Users\Steven\Documents\GitHub\School-solutions\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\SimpleGeometry\bin\Debug\netcoreapp3.1\SimpleGeometry.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.AssemblyInfo.cs
+C:\Users\Steven\Documents\GitHub\School-solutions\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\SimpleGeometry\obj\Debug\netcoreapp3.1\SimpleGeometry.genruntimeconfig.cache
