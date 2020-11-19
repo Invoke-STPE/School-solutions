@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "udyPsrKLWKeqdclM9YW11jW/x1PAkzR+cSZBkmUbG9lG5TdozogJ8UhpdzweskvgJSgdZ4ZwiEkTF3LE0hBrDg==",
+  "dgSpecHash": "D2gygPCyp1L+5GL7nB4gwRy0IbdQiUldaQGb1GjQMZdhaG+p8GNIJKLD7cgUcbOUhH+hvCZUW6ln8FOY7mLaqA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Steven\\Documents\\GitHub\\School-solutions\\LibraryV11\\UnitTestProject\\UnitTestProject.csproj",
+  "projectFilePath": "C:\\Users\\Steven\\Documents\\GitHub\\School-solutions\\LibraryV11\\UnitTestProject\\UnitTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Steven\\.nuget\\packages\\coverlet.collector\\1.0.1\\coverlet.collector.1.0.1.nupkg.sha512",
     "C:\\Users\\Steven\\.nuget\\packages\\microsoft.codecoverage\\16.2.0\\microsoft.codecoverage.16.2.0.nupkg.sha512",

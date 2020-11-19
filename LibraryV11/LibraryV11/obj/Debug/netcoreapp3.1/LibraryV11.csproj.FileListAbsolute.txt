@@ -1,0 +1,13 @@
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV11\LibraryV11\bin\Debug\netcoreapp3.1\LibraryV11.exe
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV11\LibraryV11\bin\Debug\netcoreapp3.1\LibraryV11.deps.json
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV11\LibraryV11\bin\Debug\netcoreapp3.1\LibraryV11.runtimeconfig.json
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV11\LibraryV11\bin\Debug\netcoreapp3.1\LibraryV11.runtimeconfig.dev.json
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV11\LibraryV11\bin\Debug\netcoreapp3.1\LibraryV11.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV11\LibraryV11\bin\Debug\netcoreapp3.1\LibraryV11.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV11\LibraryV11\obj\Debug\netcoreapp3.1\LibraryV11.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV11\LibraryV11\obj\Debug\netcoreapp3.1\LibraryV11.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV11\LibraryV11\obj\Debug\netcoreapp3.1\LibraryV11.AssemblyInfo.cs
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV11\LibraryV11\obj\Debug\netcoreapp3.1\LibraryV11.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV11\LibraryV11\obj\Debug\netcoreapp3.1\LibraryV11.dll
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV11\LibraryV11\obj\Debug\netcoreapp3.1\LibraryV11.pdb
+C:\Users\Steven\Documents\GitHub\School-solutions\LibraryV11\LibraryV11\obj\Debug\netcoreapp3.1\LibraryV11.genruntimeconfig.cache
